@@ -5,6 +5,6 @@ Written as a module for the bot, torn from the project. Future modifications are
 #### Section 1: About: 
 - A simple version of the receiver and sender of the packet on the ip: port of GTA San Andreas Multiplayer servers. Ip configuration: port inside main.cpp
 #### Section 2: Info:
-- CMD application
+- Simple CMD application
 - Used protocol UDP with 30 packets tick rate
 - WebSock1 (not WebSock2)
